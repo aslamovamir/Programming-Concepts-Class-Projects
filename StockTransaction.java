@@ -1,5 +1,4 @@
 //Name: Amir Aslamov
-//U-number: U32653320
 /*Description of the Prorgram: This program calculates the amount of stock purchased by Jack,
                                the total commission he paid and the total profit he made, with
                                a specific number of stocks and at a specific rate of commission*/
